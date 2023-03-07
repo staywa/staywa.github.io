@@ -90,12 +90,12 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: https://bucketp1.oss-cn-hangzhou.aliyuncs.com/img/daotu.png
 
 # Avatar (頭像)
 avatar:
   img: https://bucketp1.oss-cn-hangzhou.aliyuncs.com/img/a0b7e1d358684162927f390c17f07634.jpg
-  effect: false
+  effect: true
 
 # Disable all banner image
 disable_top_img: false
