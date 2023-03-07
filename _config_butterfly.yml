@@ -14,8 +14,8 @@ menu:
   # About: /about/ || fas fa-heart
 
 nav:
-  logo: # image
-  display_title: true
+  logo: 'https://bucketp1.oss-cn-hangzhou.aliyuncs.com/img/daotu.png'
+  display_title: false
   fixed: false # fixed navigation bar
 
 # Code Blocks (代碼相關)
@@ -94,7 +94,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://bucketp1.oss-cn-hangzhou.aliyuncs.com/img/a0b7e1d358684162927f390c17f07634.jpg
   effect: false
 
 # Disable all banner image

@@ -4,12 +4,12 @@
 
 # Site
 title: 别发呆了.
-subtitle: ''
-description: ''
+subtitle: '笔记'
+description: '好好学习，天天向上'
 keywords:
 author: 别发呆了.
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
