@@ -13,7 +13,7 @@ https://blog.csdn.net/weixin_38568503/article/details/121045947
 
 #### 修改java的版本
  <!-- java版本 --> 
- <profile>
+ `<profile>`
       <id>jdk-1.8</id>
       <activation>
         <activeByDefault>true</activeByDefault>
